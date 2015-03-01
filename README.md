@@ -10,10 +10,4 @@ My Presentation 2014,March
 
 Spaces are optional in the name. If you hate spaces, use underscores..
 
-# List of Presentation PDF files
-
-[Django 1.7](https://github.com/boisepythonanddjango/presentations/blob/master/Django%201.7%20Changes%202014-Oct/Django17_changes.pdf)
-
-
-
 
