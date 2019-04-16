@@ -1,0 +1,6 @@
+#!/bin/bash
+
+CODE=$1
+
+exit $CODE
+

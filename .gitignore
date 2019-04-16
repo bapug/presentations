@@ -12,4 +12,5 @@ PythonEpiphanies/.ipynb_checkpoints
 .venv3
 .pyvenv
 .venv
-
+.ipynb_checkpoints
+*~

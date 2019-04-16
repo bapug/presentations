@@ -1,0 +1,5 @@
+sh.wc('-l', 'hello_world.py')
+sh.wc('-l hello_world.py')
+
+sh.curl('https://www.nasa.gov', o="nasa.html", silent=True)
+sh.curl('https://www.nasa.gov', '-o', "nasa.html", '--silent')
